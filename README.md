@@ -13,6 +13,6 @@ Prerequisites:
 * select the azure account.
 * Go to the terminal
 * Run the  script 
-* `chmod a+x vm-start.sh`
-* `./vm-start.sh`
+* `chmod a+x vm-restart.sh`
+* `./vm-restart.sh`
 

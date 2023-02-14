@@ -35,3 +35,4 @@ read vmrg
     nextcount=0
     fi
 done
+
